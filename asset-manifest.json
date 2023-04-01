@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-recipe-measures/static/css/main.9d49fb72.css",
+    "main.js": "/food-recipe-measures/static/js/main.850d4d00.js",
+    "static/js/787.63e107a5.chunk.js": "/food-recipe-measures/static/js/787.63e107a5.chunk.js",
+    "index.html": "/food-recipe-measures/index.html",
+    "main.9d49fb72.css.map": "/food-recipe-measures/static/css/main.9d49fb72.css.map",
+    "main.850d4d00.js.map": "/food-recipe-measures/static/js/main.850d4d00.js.map",
+    "787.63e107a5.chunk.js.map": "/food-recipe-measures/static/js/787.63e107a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d49fb72.css",
+    "static/js/main.850d4d00.js"
+  ]
+}
